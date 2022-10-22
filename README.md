@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pradeep kase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep kase" height="30" width="40" /></a>
-<a href="https://fb.com/pradeep kase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pradeep kase" height="30" width="40" /></a>
-<a href="https://instagram.com/pradeep kase p star" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pradeep kase p star" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/pradeep-kase-20511317b/?originalSubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep kase" height="30" width="40" /></a>
+<a href="https://fb.com/pradeep.kase.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pradeep kase" height="30" width="40" /></a>
+<a href="https://instagram.com/pradeep_kase_p_star/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pradeep kase p star" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pkase6?hr_r=1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pradeepv kase" height="30" width="40" /></a>
 </p>
 

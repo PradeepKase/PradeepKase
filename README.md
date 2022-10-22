@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Pradeep Kase</h1>
 <img src="https://user-images.githubusercontent.com/56535991/121919004-354b3400-cd54-11eb-968b-5c5c3af89598.gif" alt="pradeepkase" />
 
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">Aspiring backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepkase&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepkase" /> </p>
 

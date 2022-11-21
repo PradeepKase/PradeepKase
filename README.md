@@ -18,6 +18,24 @@
 - 💬 Ask me about **HTML, CSS, Java ,Java Script, Spring Boot, REST API**
 
 - 📫 How to reach me **pkase6@gmail.com**
+<ul dir="auto">
+<li>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png"><img width="20" src="https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" style="max-width: 100%;"></a> Checkout my <a href="https://drive.google.com/file/d/172tUKIfLrmexzYQvSKRx8UoxX0bKhDB4/view?usp=sharing">Resume</a> &nbsp;</p>
+</li>
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>coding and art because that's what fascinates me</strong></p>
+</li>
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:pkase6@gmail.com">samantamayuri@gmail.com</a></strong></p>
+</li>
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun fact <strong>I think I am creative</strong></p>
+</li>
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> <strong>Love to connect with people and Know their stories</strong></p>
+</li>
+</ul>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

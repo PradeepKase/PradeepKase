@@ -43,7 +43,7 @@
 </p>
 
 
-<img src="https://camo.githubusercontent.com/aab50d3df7450abc9275b2935e07d3d2123b87f29d488cec7e46f41dc68a7047/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d6e6172756869746f6b616964652662675f636f6c6f723d30303030303026636f6c6f723d303066666666266c696e653d30306666666626706f696e743d66666666666626617265613d7472756526686964655f626f726465723d74727565" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=naruhitokaide&amp;bg_color=000000&amp;color=00ffff&amp;line=00ffff&amp;point=ffffff&amp;area=true&amp;hide_border=true" style="max-width: 100%;">
+
 
 
 
@@ -52,6 +52,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+<img src="https://camo.githubusercontent.com/aab50d3df7450abc9275b2935e07d3d2123b87f29d488cec7e46f41dc68a7047/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d6e6172756869746f6b616964652662675f636f6c6f723d30303030303026636f6c6f723d303066666666266c696e653d30306666666626706f696e743d66666666666626617265613d7472756526686964655f626f726465723d74727565" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=naruhitokaide&amp;bg_color=000000&amp;color=00ffff&amp;line=00ffff&amp;point=ffffff&amp;area=true&amp;hide_border=true" style="max-width: 100%;">
+
+
+
+
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradeepkase&show_icons=true&locale=en&layout=compact" alt="pradeepkase" /></p>
 

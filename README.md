@@ -120,11 +120,13 @@
 
 | [![trophy](https://github-profile-trophy.vercel.app/?username=PradeepKase)](https://github.com/ryo-ma/github-profile-trophy) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepKase&layout=compact)](https://github.com/abhishek-0713/github-readme-stats) |
 | :---: | :---: |
+  
+ 
 
 
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PradeepKase&theme=dark&show_icons=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=PradeepKase&theme=dark&border_radius=4)](https://git.io/streak-stats) |
 | :---: | :---: |
 
 
-
+[![Pradeep's github activity graph](https://activity-graph.herokuapp.com/graph?username=PradeepKase&theme=react)](https://github.com/PradeepKase/github-readme-activity-graph)
 

@@ -1,73 +1,130 @@
-<!-- # PradeepKase.gihub.io -->
-<img src="https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966" alt="pradeepkase" />
-<h1 align="center">Hi 👋, I'm Pradeep Kase</h1>
-<img src="https://user-images.githubusercontent.com/56535991/121919004-354b3400-cd54-11eb-968b-5c5c3af89598.gif" alt="pradeepkase" />
+  <img width=50% align=right  title="Coder Abhi." alt="CoderAbhi.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=🔰&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<!-- 
+![Blue Isometric Line Digital Marketing LinkedIn Banner](https://user-images.githubusercontent.com/105943862/200484450-6bc2f1be-6e5a-4e91-a6d8-c45a18949f5a.png)
+ -->
 
-<h3 align="center">Aspiring backend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepkase&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepkase" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradeepkase" alt="pradeepkase" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Full Stack development in Masai school**
-
-- 👨‍💻 All of my projects are available at [not atdone.com](not atdone.com)
-
-- 💬 Ask me about **HTML, CSS, Java ,Java Script, Spring Boot, REST API**
-
-- 📫 How to reach me **pkase6@gmail.com**
-<ul dir="auto">
-<li>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png"><img width="20" src="https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" style="max-width: 100%;"></a> Checkout my <a href="https://drive.google.com/file/d/172tUKIfLrmexzYQvSKRx8UoxX0bKhDB4/view?usp=sharing">Resume</a> &nbsp;</p>
-</li>
-<li>
-<p dir="auto"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>coding and art because that's what fascinates me</strong></p>
-</li>
-<li>
-<p dir="auto"><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun fact <strong>I think I am creative</strong></p>
-</li>
-<li>
-<p dir="auto"><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> <strong>Love to connect with people and Know their stories</strong></p>
-</li>
-</ul>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pradeep-kase-20511317b/?originalSubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep kase" height="30" width="40" /></a>
-<a href="https://fb.com/pradeep.kase.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pradeep kase" height="30" width="40" /></a>
-<a href="https://instagram.com/pradeep_kase_p_star/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pradeep kase p star" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pkase6?hr_r=1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pradeepv kase" height="30" width="40" /></a>
+### Hi 👋, I am Pradeep Kaase
+<p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=Full+Stack+Web+Developer;Rising+Java+Backend+Developer;First,+solve+the+problem.+Then,+write+the+code." alt="Typing SVG" /></a>
 </p>
 
+<!-- <img src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif"  width = "100%" height= "400">  -->
+
+<!-- --------------------------------------------------------------    Intoduction  ---------------------------------------------------------------------------- -->
+
+<div>
+
+ <img src="https://topdevs.org/images/site/services/webdev/hero-bg.svg" alt="Coder" width = "50%" height= "270" align = "right"> 
+ 
+</br> </br>
+<!-- [![Followers](https://img.shields.io/github/followers/PradeepKase)](#) -->
+ [![Stars](https://img.shields.io/github/stars/PradeepKase?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) 
+![Profile views](https://gpvc.arturio.dev/PradeepKase)
+- 🌱 I’m currently learning Java Spring Boot.
+
+- 💞️ I’m looking to collaborate on Course Monitoring System.
+
+- 💬 Ask me about Data Structures and Algorithms.
+
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/172tUKIfLrmexzYQvSKRx8UoxX0bKhDB4/view?usp=sharing">Resume.</a>
+
+- 👨‍💻 All of my projects are available at <a href="https://PradeepKase.github.io/">Pradeep's Portfolio.</a>
+
+</div>
+
+ </br> </br>
+ 
+ <!-- -------------------------------------------------------------   Thoughts  ------------------------------------------------------------------------- -->
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react-dark) 
+
+ </br>
+ 
+ 
+ <!-- -------------------------------------------------------    Middle Section  ----------------------------------------------------------------------- -->
+ 
+ <img align="left" width="50" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" />
+
+ ## Skills : 
+
+ ### 👨‍💻 Programming and markup languages
+
+<code><a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Ajava"><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code> 
+<code><a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Ajavascript"><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+<code><a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Ajavascript"><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
+<code><a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Acss"><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
+<code><a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Ahtml"><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
+<code><a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Abash"><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a></code>
+<code><a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Asql"><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+
+<!-- <code><a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a></code>
+<code><a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a></code> -->
+
+</br>
+
+### 🧰 Frameworks and libraries
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/maven.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
+<!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code> -->
+
+</br>
+
+### 🗄️ Databases and cloud hosting
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/replit/replit-ar21.svg"></code>
+
+</br>
+
+### 💻 Software and tools
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+
+</br>
+
+<!-- ----------------------------------------------------------    Social Media  ---------------------------------------------------------------------- -->
+<div>
+
+## 📮Be Connected :
+ 
+<code><a href="https://linkedin.com/in/pradeep-kase-20511317b/?originalSubdomain=in"><img width="10%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code> 
+<code><a href="https://www.hackerrank.com/pkase6?hr_r=1"><img width="10%" src="https://user-images.githubusercontent.com/105943862/198336706-a223d43a-79bc-48c0-a5b3-61af6330163a.png"></a></code>
 
 
 
+| Func Fact  | Spotify |
+ | :---: | :---: |
+| ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default) | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ngxw5xgsjaij6ffupb6hwggzim&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31ngxw5xgsjaij6ffupb6hwggzim&redirect=true) |
+| 😅 | 🎧 |
+
+<!-- -------------------------------------------------------------   Trophy and Stats  ------------------------------------------------------------------------- -->
+
+## Trophy & Stats :
+
+| [![trophy](https://github-profile-trophy.vercel.app/?username=PradeepKase)](https://github.com/ryo-ma/github-profile-trophy) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepKase&layout=compact)](https://github.com/abhishek-0713/github-readme-stats) |
+| :---: | :---: |
+
+
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PradeepKase&theme=dark&show_icons=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=PradeepKase&theme=dark&border_radius=4)](https://git.io/streak-stats) |
+| :---: | :---: |
 
 
 
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-
-
-
-
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradeepkase&show_icons=true&locale=en&layout=compact" alt="pradeepkase" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradeepkase&show_icons=true&locale=en" alt="pradeepKase" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepkase&" alt="pradeepkase" /></p>
-
-
-
-<!-- <img src="https://camo.githubusercontent.com/aab50d3df7450abc9275b2935e07d3d2123b87f29d488cec7e46f41dc68a7047/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d6e6172756869746f6b616964652662675f636f6c6f723d30303030303026636f6c6f723d303066666666266c696e653d30306666666626706f696e743d66666666666626617265613d7472756526686964655f626f726465723d74727565" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=Pradeepkase;bg_color=000000&amp;color=00ffff&amp;line=00ffff&amp;point=ffffff&amp;area=true&amp;hide_border=true" style="max-width: 100%;"> -->
 

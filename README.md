@@ -5,7 +5,7 @@
 
 ### Hi 👋, I am Pradeep Kaase
 <p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=ffffff&background=adbac7&width=700&height=51&lines=Full+Stack+Web+Developer;Rising+Java+Backend+Developer;First,+solve+the+problem.+Then,+write+the+code." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=ffffff&background=2d333b&width=700&height=51&lines=Full+Stack+Web+Developer;Rising+Java+Backend+Developer;First,+solve+the+problem.+Then,+write+the+code." alt="Typing SVG" /></a>
 </p>
 
 <!-- <img src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif"  width = "100%" height= "400">  -->

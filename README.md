@@ -12,7 +12,7 @@
 
 <!---- --------------------------------------------------------------    Intoduction  ---------------------------------------------------------------------------- -->
 <div>
-Strong in design and integration with intuitive problem-solving skills. Proficient in HTML, CSS, JavaScript, Java, SpringBoot MySQL, REST API.  
+Strong in design and integration with intuitive problem-solving skills. I'm proficient in writing production ready code, with a knack for Problem Solving, Critical Thinking, and attention to detail. Proficient in HTML, CSS, JavaScript, Java, SpringBoot MySQL, REST API.  
 </div>
   
   

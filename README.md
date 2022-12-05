@@ -10,8 +10,13 @@
 
 <!-- <img src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif"  width = "100%" height= "400">  -->
 
-<!-- --------------------------------------------------------------    Intoduction  ---------------------------------------------------------------------------- -->
-
+<!---- --------------------------------------------------------------    Intoduction  ---------------------------------------------------------------------------- -->
+<div>
+Strong in design and integration with intuitive problem-solving skills. Proficient in HTML, CSS, JavaScript, Java, SpringBoot MySQL, REST API.  
+</div>
+  
+  
+  
 <div>
 
  <img src="https://topdevs.org/images/site/services/webdev/hero-bg.svg" alt="Coder" width = "50%" height= "270" align = "right"> 

@@ -31,7 +31,7 @@ Strong in design and integration with intuitive problem-solving skills. I'm prof
 
 - 💬 Ask me about Data Structures and Algorithms.
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/172tUKIfLrmexzYQvSKRx8UoxX0bKhDB4/view?usp=sharing">Resume.</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1NWW7ko2vY64RcggFII4fhlBzPGQtSVNp/view?usp=sharing">Resume.</a>
 
 - 👨‍💻 All of my projects are available at <a href="https://PradeepKase.github.io/">Pradeep's Portfolio.</a>
 
